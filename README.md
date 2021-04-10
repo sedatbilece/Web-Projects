@@ -17,3 +17,5 @@
 [GO Project Repository ](https://github.com/sedatbilece/asp.net-core-texteditor-using)
 
 
+5-) this project includes how we do image uploading and use path name ( ASP.NET Core )
+[GO Project Repository ](https://github.com/sedatbilece/asp.net-core-image-uploading)
