@@ -10,5 +10,5 @@
 ***
 
 3-)this project was developed in conjunction with a company automation series .
-[GO Project Repository ]()
+[GO Project Repository ](https://github.com/sedatbilece/asp.net-core-company-automation-project)
 ***
