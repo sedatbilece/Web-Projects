@@ -19,26 +19,4 @@
 
 5-) this project includes how we do image uploading and use path name ( ASP.NET Core )
 [GO Project Repository ](https://github.com/sedatbilece/asp.net-core-image-uploading)
-
-
-
-
-asd
-as
-d
-asd
-
-
-
-asd
-as
-d
-as
-
-s
-a
-ds
-sd
-sda
-
-saad
+***
