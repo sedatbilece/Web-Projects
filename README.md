@@ -1,7 +1,9 @@
 
 ##  This repo shows other web project repo 
 
-
+5-)N Layer API Project ( ASP.NET Core )
+[GO Project Repository ](https://github.com/sedatbilece/NLayerProject)
+***
 5-) this project includes how we do image uploading and use path name ( ASP.NET Core )
 [GO Project Repository ](https://github.com/sedatbilece/asp.net-core-image-uploading)
 ***
