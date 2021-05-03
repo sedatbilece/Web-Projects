@@ -1,5 +1,5 @@
 
-##  This repo shows other web project repo 
+##  This repo shows other web project repos
 
 5-)N Layer API Project ( ASP.NET Core )
 [GO Project Repository ](https://github.com/sedatbilece/NLayerProject)
