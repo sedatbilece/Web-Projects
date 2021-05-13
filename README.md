@@ -14,7 +14,7 @@
 
 
 4-) Market project with categories and foods ( ASP.NET Core )
-[GO Project Repository ]( https://github.com/sedatbilece/Core-Market )
+[GO Project Repository ](https://github.com/sedatbilece/CoreAndFood)
 ***
 
 3-)This project was developed in conjunction with a company automation series . ( ASP.NET Core )
