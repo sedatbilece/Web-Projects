@@ -1,6 +1,8 @@
 
 ##  This repo shows other web project repos
-
+10-) Blog Project with layered ( .NET Core 5.0) 
+[GO Project Repository ](https://github.com/sedatbilece/ASP.NET-Core-5.0-Blog-Project)
+***
 
 9-) Shopping Project ( e-ticaret ) ( PHP)
 [GO Project Repository ](https://github.com/sedatbilece/Shopping-Project)
