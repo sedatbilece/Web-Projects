@@ -1,5 +1,38 @@
 
-##  This repo shows other web project repos
+#  This repo shows other web project repos
+***
+
+
+17-)Spotify Clone (React)
+>React Spotify Clone with Tailwind
+
+[GO to Project  ](https://github.com/sedatbilece/React-Spotify-Clone)
+***
+
+
+16-)CodeBooks Blog Website (Asp.net Core 5.0)
+>This project was hastily done by me in a short period . CRUD operations , EF , Authentication , CKeditor are used . Ready template modified for frontend
+
+[GO to Project  ](https://github.com/sedatbilece/CodeBooks)
+***
+
+15-)Weather App (React)
+>Weather app with fetch API and Hooks
+
+[GO to Project  ](https://github.com/sedatbilece/React-Weather-App)
+***
+
+14-)Onboarding Tour (React)
+>Onboarding Tour Card is take dynamically steps , reposition card and show title and text
+
+[GO to Project  ](https://github.com/sedatbilece/React-Onboarding-Tour)
+***
+
+13-)Notes-App (Node.js)
+>Note application running on console using Node.js
+
+[GO to Project  ](https://github.com/sedatbilece/Notes-App)
+***
 
 
 12-)Resfull API (PHP-Laravel)
@@ -10,6 +43,7 @@
 11-)Image List App ( REACT - TAILWIND)
 > A project that aims to take and display the pictures that come with an api request. .
 > `API image request` , `binding` , `controlled and uncontrolled forms` ve `communication between components` .
+
 [GO to Project  ](https://github.com/sedatbilece/React-Projects/tree/master/imagelist-app)
 ***
 
@@ -21,7 +55,7 @@
 9-) Shopping Project ( e-ticaret ) ( PHP)
 [GO to Project  ](https://github.com/sedatbilece/Shopping-Project)
 ***
-8-) CV Website Project( ASP NET MVC5 )
+8 -) CV Website Project( ASP NET MVC5 )
 [GO to Project  ](https://github.com/sedatbilece/CvProject)
 ***
 
