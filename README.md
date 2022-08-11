@@ -35,7 +35,7 @@
 ***
 
 
-12-)Resfull API (PHP-Laravel)
+12-)Restfull API (PHP-Laravel)
 [GO to Project  ](https://github.com/sedatbilece/PHP/tree/master/LaravelProjects/first-app)
 ***
 
