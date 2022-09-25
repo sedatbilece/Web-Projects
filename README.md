@@ -3,6 +3,12 @@
 ***
 
 
+18-)N Layer API (.Net Core)
+>Basic design on products and categories with 3 layers
+
+[GO to Project  ](https://github.com/sedatbilece/.NET-Core-NLayer-API)
+***
+
 17-)Spotify Clone (React)
 >React Spotify Clone with Tailwind
 
