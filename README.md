@@ -1,5 +1,5 @@
 
-#  This repo shows other web project repos
+#  This repo shows other web projects
 ***
 
 
