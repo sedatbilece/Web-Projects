@@ -4,11 +4,13 @@
 
 20-)Autocomplete Search  (React)
 >Simple react auto search complete project ,data get dynamicly from backend and db
+
 [GO to Project  ](https://github.com/sedatbilece/React-Autocomplete-Search)
 ***
 
 19-)FireBase Authentication  (React)
 >In this project just try to do firebase auth in react app
+
 [GO to Project  ](https://github.com/sedatbilece/React-Firebase-Auth)
 ***
 
