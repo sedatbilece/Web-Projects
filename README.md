@@ -2,7 +2,7 @@
 #  This repo shows other web projects
 
 23-)Spring-Hoaxify API (Spring)
->Hoaxify is a basic social media app . This repo for backend
+>Hoaxify is a basic social media app . Post,Put,Get methods with ResponseEntity and Error handling . Attempted to comply with API standards
 
 [GO to Project  ](https://github.com/sedatbilece/Spring-Hoaxify)
 ***
