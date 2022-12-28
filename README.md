@@ -1,6 +1,18 @@
 
 #  This repo shows other web projects
 
+23-)Spring-Hoaxify API (Spring)
+>Hoaxify is a basic social media app . This repo for backend
+
+[GO to Project  ](https://github.com/sedatbilece/Spring-Hoaxify)
+***
+
+22-)Hoaxify-Frontend  (React)
+>Hoaxify is a basic social media app . This repo for frontend
+
+[GO to Project  ](https://github.com/sedatbilece/Hoaxify-Frontend)
+***
+
 21-)Undo Dots Canvas App  (React)
 >when you click on the screen , it will create a dot and you can undo it by pressing the undo button (History Management)
 
