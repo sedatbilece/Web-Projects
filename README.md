@@ -107,31 +107,31 @@
 9-) Shopping Project ( e-ticaret ) ( PHP)
 [GO to Project  ](https://github.com/sedatbilece/Shopping-Project)
 ***
-8 -) CV Website Project( ASP NET MVC5 )
+8 -) CV Website Project(  .NET MVC5 )
 [GO to Project  ](https://github.com/sedatbilece/CvProject)
 ***
 
-7-)N Layer API Project ( ASP.NET Core )
+7-)N Layer API Project ( .NET Core )
 [GO to Project  ](https://github.com/sedatbilece/NLayerProject)
 ***
-6-) This project includes how we do image uploading and use path name ( ASP.NET Core )
+6-) This project includes how we do image uploading and use path name ( .NET Core )
 [GO to Project  ](https://github.com/sedatbilece/asp.net-core-image-uploading)
 ***
 
-5-) This project includes use of text editor (ckeditor) ( ASP.NET Core )
+5-) This project includes use of text editor (ckeditor) ( .NET Core )
 [GO to Project  ](https://github.com/sedatbilece/asp.net-core-texteditor-using)
 ***
 
 
-4-) Market project with categories and foods ( ASP.NET Core )
+4-) Market project with categories and foods ( .NET Core )
 [GO to Project  ](https://github.com/sedatbilece/CoreAndFood)
 ***
 
-3-)This project was developed in conjunction with a company automation series . ( ASP.NET Core )
+3-)This project was developed in conjunction with a company automation series . ( .NET Core )
 [GO to Project  ](https://github.com/sedatbilece/asp.net-core-company-automation-project)
 ***
 
-2-) This is my firs asp.net core testing project ( ASP.NET Core )
+2-) This is my firs asp.net core testing project (.NET Core )
    [GO to Project  ](https://github.com/sedatbilece/asp.net-core-library-project)
 ***
 
