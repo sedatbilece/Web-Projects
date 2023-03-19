@@ -1,5 +1,17 @@
 
-#  This repo shows other web projects
+#  All of my featured projects
+
+27-)WebLinkSearcher (.Net Core Console App)
+>This console app read a page and search for links on the web
+
+[GO to Project  ](https://github.com/sedatbilece/WebLinkSearcher)
+***
+
+26-)Identity MVC Membership App (.Net Core MVC)
+>This is a sample application that demonstrates how to use the .Net Core Identity Membership system
+
+[GO to Project  ](https://github.com/sedatbilece/.Net-Core-Identity-MVC)
+***
 
 25-)Entity Framework Core 6 (.Net Core)
 >This repository contains the code samples and exercises for learning Entity Framework Core
@@ -49,7 +61,7 @@
 [GO to Project  ](https://github.com/sedatbilece/React-Firebase-Auth)
 ***
 
-18-)N Layer API (.Net Core)
+18-)N Layer API (.Net Core API)
 >Basic design on products and categories with 3 layers
 
 [GO to Project  ](https://github.com/sedatbilece/.NET-Core-NLayer-API)
@@ -87,7 +99,7 @@
 ***
 
 
-12-)Restfull API (PHP-Laravel)
+12-)Restfull API (PHP-Laravel API)
 [GO to Project  ](https://github.com/sedatbilece/PHP/tree/master/LaravelProjects/first-app)
 ***
 
@@ -111,27 +123,27 @@
 [GO to Project  ](https://github.com/sedatbilece/CvProject)
 ***
 
-7-)N Layer API Project ( .NET Core )
+7-)N Layer API Project ( .NET Core API )
 [GO to Project  ](https://github.com/sedatbilece/NLayerProject)
 ***
-6-) This project includes how we do image uploading and use path name ( .NET Core )
+6-) This project includes how we do image uploading and use path name ( .NET Core MVC )
 [GO to Project  ](https://github.com/sedatbilece/asp.net-core-image-uploading)
 ***
 
-5-) This project includes use of text editor (ckeditor) ( .NET Core )
+5-) This project includes use of text editor (ckeditor) ( .NET Core MVC)
 [GO to Project  ](https://github.com/sedatbilece/asp.net-core-texteditor-using)
 ***
 
 
-4-) Market project with categories and foods ( .NET Core )
+4-) Market project with categories and foods ( .NET Core MVC)
 [GO to Project  ](https://github.com/sedatbilece/CoreAndFood)
 ***
 
-3-)This project was developed in conjunction with a company automation series . ( .NET Core )
+3-)This project was developed in conjunction with a company automation series . ( .NET Core MVC )
 [GO to Project  ](https://github.com/sedatbilece/asp.net-core-company-automation-project)
 ***
 
-2-) This is my firs asp.net core testing project (.NET Core )
+2-) This is my firs asp.net core testing project (.NET Core MVC )
    [GO to Project  ](https://github.com/sedatbilece/asp.net-core-library-project)
 ***
 
