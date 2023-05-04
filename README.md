@@ -2,13 +2,13 @@
 #  All of My Projects
 
 
-27-)RabbitMQ Watermark App and Excel App (.Net Core)
+28-)RabbitMQ Watermark App and Excel App (.Net Core)
 >In this project, communication was practiced using RabbitMQ with BackgroundService for WatermarkApp and WorkerService for ExcelApp.
 
 [GO to Project  ](https://github.com/sedatbilece/RabbitMQ-Apps)
 ***
 
-27-)WebLinkSearcher (.Net Core Console App)
+27-)WebLinkSearcher (Console App)
 >This console app read a page and search for links on the web
 
 [GO to Project  ](https://github.com/sedatbilece/WebLinkSearcher)
