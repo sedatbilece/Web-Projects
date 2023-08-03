@@ -2,6 +2,12 @@
 #  All of My Projects
 
 
+29-)ElasticSearch based API (.Net Core)
+>The implementation of making requests to Elasticsearch via Nest library on .NET Core has been completed.
+
+[GO to Project  ](https://github.com/sedatbilece/ElasticSearchWithNet)
+***
+
 28-)RabbitMQ Watermark App and Excel App (.Net Core)
 >In this project, communication was practiced using RabbitMQ with BackgroundService for WatermarkApp and WorkerService for ExcelApp.
 
