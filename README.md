@@ -1,6 +1,11 @@
 
 #  All of My Projects
 
+30-)LawFirmTemplate  (.Net Core)
+>The aim is to develop a project based on the promotion of law and law firms using .Net Core MVC. It includes dynamic features fields .
+
+[GO to Project  ](https://github.com/sedatbilece/LawFirmTemplate)
+***
 
 30-)MicroService-CourseApp  (.Net Core)
 >It is a microservice project for purchasing courses and other related transactions .
