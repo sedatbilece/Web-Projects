@@ -1,7 +1,14 @@
 
 #  All of My Projects
 
-30-)LawFirmTemplate  (.Net Core)
+
+30-)Turkis Number To Integer Converter API  (.Net Core)
+>This API replaces numbers written in various conditions and formats with their numerical equivalents.
+
+[GO to Project  ](https://github.com/sedatbilece/TurkishNumberToIntegerConverterAPI)
+***
+
+30-)LawFirmTemplate  (.Net Core )
 >The aim is to develop a project based on the promotion of law and law firms using .Net Core MVC. It includes dynamic features fields .
 
 [GO to Project  ](https://github.com/sedatbilece/LawFirmTemplate)
