@@ -2,6 +2,12 @@
 #  All of My Projects
 
 
+33-)SignalR Restaurant Project (.Net Core Api-MVC)
+>This project encompasses a basic CRUDoperations application, coupled with real-time updating of frontend pages using SignalR .
+
+[GO to Project  ](https://github.com/sedatbilece/SignalRProject)
+***
+
 32-)Turkis Number To Integer Converter API  (.Net Core)
 >This API replaces numbers written in various conditions and formats with their numerical equivalents.
 
